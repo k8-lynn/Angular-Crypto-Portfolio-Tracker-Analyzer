@@ -2,6 +2,8 @@
 
 Angular application for tracking live cryptocurrency markets and logging simulated trades.
 
+![CryptoTrack Pro Dashboard Preview](sampleImg.png)
+
 ## Features
 
 * Live cryptocurrency market data from the CoinGecko API
